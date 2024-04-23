@@ -6,7 +6,7 @@ function Header() {
       <div>
         <Link to="/">Inventory</Link>
       </div>
-      <h1>Shopify Challenge</h1>
+      <h1>Inventory Tracker</h1>
       <ul>
         <li>
           <Link to="/deleted">View Deleted Items</Link>
