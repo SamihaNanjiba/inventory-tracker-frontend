@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/inventory/";
+const API_URL = "https://inventory-tracker-backend-8k9u.onrender.com/api/inventory/";
 
 const config = {
   headers: {
